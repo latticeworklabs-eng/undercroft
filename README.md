@@ -113,6 +113,7 @@ If the pattern clicks and you want the rest of the discipline, the paid kit — 
 
 - **Obsidian is optional.** The vault is plain markdown + `[[wikilinks]]`; any editor works. Obsidian adds graph view, backlinks, and link autocomplete.
 - **Other coding agents:** the contract is plain instructions. Copy or symlink it to `AGENTS.md` (`ln -s CLAUDE.md AGENTS.md`) and most CLAUDE.md-style agents will follow it.
+- **Support:** Lite is free and stays free. If it earned its keep, the [tip jar](https://latticeworklabs.gumroad.com/l/undercroft-support) ($0+, pay what you want) keeps it maintained — supporters get credited in [SUPPORTERS.md](SUPPORTERS.md).
 - **Privacy:** a second brain accretes personal context fast. Keep the repo private; git history remembers everything.
 
 ## License
