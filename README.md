@@ -103,6 +103,8 @@ What it deliberately does **not** include is the rest of the operations discipli
 
 ## The full kit
 
+**Start for $3:** [The Undercroft Operations Playbook](https://latticeworklabs.gumroad.com/l/undercroft-playbook) is the quickstart plus the complete operations manual from Core, standalone — the discipline before the contract, for the price of a coffee.
+
 If the pattern clicks and you want the rest of the discipline, the paid kit — **[Undercroft Core](https://latticeworklabs.gumroad.com/l/undercroft-core)** ($29) and **[Undercroft Pro](https://latticeworklabs.gumroad.com/l/undercroft-pro)** ($79) — ships the complete contract with all operations, the full three-ingest example vault you can read page by page, and installable Claude Code skills. The free tier is the engine; the kit is the operating manual written from the scar tissue. No subscription, files you own forever.
 
 **Launch discount:** the first 25 buyers get 50% off with code `LAUNCH50` — auto-applied at [Core for $14.50](https://latticeworklabs.gumroad.com/l/undercroft-core/LAUNCH50) or [Pro for $39.50](https://latticeworklabs.gumroad.com/l/undercroft-pro/LAUNCH50).
