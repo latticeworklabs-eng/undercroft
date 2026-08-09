@@ -115,6 +115,7 @@ If the pattern clicks and you want the rest of the discipline, the paid kit — 
 - **Other coding agents:** the contract is plain instructions. Copy or symlink it to `AGENTS.md` (`ln -s CLAUDE.md AGENTS.md`) and most CLAUDE.md-style agents will follow it.
 - **Support:** Lite is free and stays free. If it earned its keep, the [tip jar](https://latticeworklabs.gumroad.com/l/undercroft-support) ($0+, pay what you want) keeps it maintained — supporters get credited in [SUPPORTERS.md](SUPPORTERS.md).
 - **Privacy:** a second brain accretes personal context fast. Keep the repo private; git history remembers everything.
+- **From the same studio:** [Counterweight](https://latticeworklabs.itch.io/counterweight) — a free browser puzzle of beam-and-weight physics, 30 deterministic levels. For when the vault work is done.
 
 ## License
 
